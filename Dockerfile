@@ -1,4 +1,4 @@
-FROM nginx:1.15.6
+FROM nginx:latest
 
 VOLUME /etc/nginx /etc/letsencrypt
 
